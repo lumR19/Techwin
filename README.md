@@ -1,4 +1,4 @@
-# In this repository I will upload my projects that will be worked on during my journey with Techwin, where I currently work as a front-end developer trainee.
+#### *In this repository I will upload my projects that will be worked on during my journey with Techwin, where I currently work as a front-end developer trainee.
 # React + TypeScript + JavaScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
